@@ -8,6 +8,7 @@
   </a>
 </p>
 &nbsp;
+&nbsp;
 
 <p align="center">
     <a href="https://ghost.org/">Ghost.org</a> •
